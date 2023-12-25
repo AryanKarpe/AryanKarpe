@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [https://github.com/AryanKarpe](https://github.com/AryanKarpe)
 
-- 💬 Ask me about **.Net framework, Point cloud library, UI-UX, Revit,**
+- 💬 Ask me about **C++, C#, Python, .Net framework, OpenCV, Point cloud library, UI-UX,**
 
 - 📫 How to reach me **aryankarpe12@gmail.com**
 
